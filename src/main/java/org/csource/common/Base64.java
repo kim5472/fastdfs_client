@@ -1,5 +1,4 @@
 package org.csource.common;
-
 import java.io.IOException;
 
 /**
